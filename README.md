@@ -1,7 +1,7 @@
 # Clima : A Weather App
 
 ## Description
-This project is a weather application inspired by the designs created by Olia Gozha. It is developed using the Dart programming language, with a focus on asynchronous programming techniques. The app is designed to perform tasks such as retrieving device location and fetching weather data from the internet.
+This project is a weather application . It is developed using the Dart programming language, with a focus on asynchronous programming techniques. The app is designed to perform tasks such as retrieving device location and fetching weather data from the internet.
 
 ## Key Learnings
 - Implemented asynchronous tasks using async/await and Futures.
