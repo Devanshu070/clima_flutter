@@ -28,8 +28,9 @@ The project resulted in a fully functional weather application capable of provid
     <td><img src="https://github.com/Devanshu070/clima_flutter/assets/104648275/ad38884e-9509-4c5c-bff9-59614664031d" alt="Location Input" width="150"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Devanshu070/clima_flutter/assets/104648275/18d08103-6989-46f8-9796-9a92cf91c02b" alt="Location Autodetecter Prompt" width="150"></td>
     <td><img src="https://github.com/Devanshu070/clima_flutter/assets/104648275/f1ecd637-721f-4960-b07f-99c05114283a" alt="Weather Details" width="150"></td>
+    <td><img src="https://github.com/Devanshu070/clima_flutter/assets/104648275/18d08103-6989-46f8-9796-9a92cf91c02b" alt="Location Autodetecter Prompt" width="150"></td>
+    
   </tr>
 </table>
 
