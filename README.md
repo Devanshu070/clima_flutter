@@ -3,6 +3,9 @@
 ## Description
 This project is a weather application. It is developed using the Dart programming language, with a focus on asynchronous programming techniques. The app is designed to perform tasks such as retrieving device location and fetching weather data from the internet.
 
+## API Provider
+This project utilizes the weather data API provided by [OpenWeather](https://openweathermap.org/api).
+
 ## Key Learnings
 - Implemented asynchronous tasks using async/await and Futures.
 - Utilized the Dart http package for networking.
